@@ -22,5 +22,7 @@ Berikut adalah program sederhana yang meminta pengguna untuk memasukkan nama dan
 
 Sehingga output nya menjadi seperti dibawah ini :
 
-![img](/perulangan_dart/img/outputne.png)# perulangan_dart
+![img](/perulangan_dart/img/outputne.png) 
+
+
 
